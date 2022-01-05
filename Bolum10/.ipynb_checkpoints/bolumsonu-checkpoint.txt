@@ -1,0 +1,9 @@
+DAĞILIM GRAFİKLERİ
+Kategorik degiskenler icin;
+Sütun grafik(bar plot)
+
+Sayısal değişkenler için;
+Histogram ve kutu grafik(box plot)
+Violin
+
+

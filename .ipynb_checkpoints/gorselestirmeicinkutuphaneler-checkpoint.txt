@@ -1,0 +1,9 @@
+Matplotlib - büyük babadır, matlab benzeri arayüz vardır, low level erişim sağlar. İşi yapmak için daha çok çaba harcanır. Diğer kütüphanelerin bazıları bu kütüphanenin üzerine inşa edilmiştir.
+Biz bunun sadece bazı biçimsel özelliklerini kullanıcaz.
+Pandas - Matplotlib üzerine inşaa edilmiştir. High level'dir. Daha kolay kod yazma imkanı sağlar.
+Seaborn - Matplotlib üzerine inşa edilmiştir. High Level Interface sunar, işleri daha kolay yapma imkanı sunar, istatistiksel ve bilgi taşıyan grafikleri daha kolay elde etmemizi sağlar.
+ggplot - R dünyasında yer alır ama python'a uyarlanmıştır. Veri görselleştirme de dünyanın en iyi aracıdır.Görselleştirmeyi katman olarak ele alır.
+Bokeh - Matplotlib üzerine kurulu değildir. Büyük ve akan veri setlerini yüksek performansla sunar. İşlerini modern web browser ile gerçekleştirmeye imkan sağlar.
+Plot.ly - İnteraktif veri görselleştirme sağlar, profesyonel bir araçtır.
+
+Biz daha çok seaborn kütüphanesini çalışıcaz fakat diğerlerinden de destek almış olucaz.
